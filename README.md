@@ -1,24 +1,47 @@
-# task-management
+# task-management app
 
-## Project setup
+## Opis projektu
+
+Prosta aplikacja do zarządzania projektami i zadaniami, napisana w Vue 3 z wykorzystaniem Options API. Umożliwia dodawanie, usuwanie i filtrowanie projektów oraz zadań (todo)
+
+## Klonowanie repozytorium
+
+```
+git clone https://github.com/wojtekx/task-management-vue3.git
+```
+
+## Instalacja zależności
+
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+## Uruchomienie w trybie developerskim
+
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+## Otwórz przeglądarkę i przejdź pod adres [http://localhost:8080](http://localhost:8080)
+
+## Użyte narzędzia:
+
+- **Vue 3 + options API**: Framework do budowy interfejsów użytkownika
+- **Vue Router**: Zarządzanie nawigacją między widokami
+- **Local Storage**: Przechowywanie danych aplikacji po stronie klienta
+
+### Budowanie projektu
+
 ```
 npm run build
 ```
 
-### Lints and fixes files
+### Lintuje i naprawia pliki
+
 ```
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Dostosuj konfigurację
+
+Zobacz [Configuration Reference](https://cli.vuejs.org/config/).
