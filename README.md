@@ -2,7 +2,7 @@
 
 ## Opis projektu
 
-Prosta aplikacja do zarządzania projektami i zadaniami, napisana w Vue 3 z wykorzystaniem Options API. Umożliwia dodawanie, usuwanie i filtrowanie projektów oraz zadań (todo)
+Prosta aplikacja do zarządzania projektami i zadaniami, napisana w Vue 3 z wykorzystaniem Options API. Umożliwia dodawanie, usuwanie i filtrowanie projektów oraz zadań
 
 ## Klonowanie repozytorium
 
@@ -29,6 +29,7 @@ npm run serve
 - **Vue 3 + options API**: Framework do budowy interfejsów użytkownika
 - **Vue Router**: Zarządzanie nawigacją między widokami
 - **Local Storage**: Przechowywanie danych aplikacji po stronie klienta
+- **Style**: Własny css
 
 ### Budowanie projektu
 
